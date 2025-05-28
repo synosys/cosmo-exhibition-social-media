@@ -1,2 +1,5 @@
-# cosmo-exhibition-visualizations
-This is a public repository for COSMO Data Visualization Exhibition by the Synosys Team
+<div align="center">
+  <img src="/banner_social_network_small.png"
+       alt="Cosmo Exhibition Banner Fungi"
+       width="600"/>
+</div>
